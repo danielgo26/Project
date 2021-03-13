@@ -12,6 +12,7 @@ namespace Project
                 Age = 23,
             };
             person.IndroduceYourself();
+            Console.WriteLine();
         }
     }
 }
