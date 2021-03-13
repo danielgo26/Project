@@ -6,7 +6,12 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World bla bla");
+            Person person = new Person()
+            {
+                Name = "Ivan",
+                Age = 23,
+            };
+            person.IndroduceYourself();
         }
     }
 }

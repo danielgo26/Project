@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Project
 {
-    class Person
+    /// <summary>
+    /// Клас
+    /// </summary>
+    public class Person
     {
         private int age;
         private string name;
