@@ -8,7 +8,7 @@ namespace Project
         {
             Person person = new Person()
             {
-                Name = "Ivan",
+                Name = "Ivan Ivanov",
                 Age = 23,
             };
             person.IndroduceYourself();
